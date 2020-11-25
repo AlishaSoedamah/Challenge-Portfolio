@@ -13,14 +13,10 @@
 | Stap        | Taak                                           | Verwachte tijdsduur | Status |
 | ----------- | ---------------------------------------------- | ------------------- | ------ |
 | Planning    | Planning maken                                 | 00:30 u             | Bezig  |
-| Ontwerpen   | Mockup van portfolio maken                     |                     |        |
-| ...         | Styling van elementen bepalen                  |                     |        |
-| Realiseren  | Bestanden aanmaken                             |                     |        |
-| ...         |                                                |                     |        |
-| Testen      | Applicatie testen                              |                     |        |
-| ...         |                                                |                     |        |
-| Verbeteren  | Problemen gevonden tijdens het testen oplossen |                     |        |
-| ...         |                                                |                     |        |
-| Presenteren |                                                |                     |        |
-| ...         |                                                |                     |        |
-| Refecteren  | Reflectiedocument schrijven                    |                     |        |
+| Ontwerpen   | Mockup van portfolio maken                     | 02:00 u             |        |
+| Ontwerpen 2 | Styling van elementen bepalen                  | 01.00 u             |        |
+| Realiseren  | Bestanden aanmaken                             | 00:30 u             |        |
+| Testen      | Applicatie testen                              | 01:30 u             |        |
+| Verbeteren  | Problemen gevonden tijdens het testen oplossen | 02:00 u             |        |
+| Presenteren | Portfolio laten zien                           | 00.20 u             |        |
+| Refecteren  | Reflectiedocument schrijven                    | 01:00 u             |        |
