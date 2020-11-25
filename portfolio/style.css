@@ -20,8 +20,29 @@ ul {
   
   /* Change the link color to #111 (black) on hover */
   li a:hover {
-    background-color: #111;
+    background-color: rgb(143, 201, 49);
   }
   .active {
-    background-color: #934caf;
+    background-color: #eb9635;
+  }
+  img {
+    position: absolute;
+    left: 50px;
+    top: 150px;
+    z-index: -1;
+  }
+  .topright {
+    position: absolute;
+    top: 140px;
+    right: 400px;
+    font-size: 50px;
+  }
+  .toprighttwo {
+    position: absolute;
+    top: 180px;
+    right: 250px;
+    font-size: 30px;
+  }
+  body {
+      background-color:rgb(228, 228, 228)
   }
