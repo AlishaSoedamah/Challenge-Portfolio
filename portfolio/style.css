@@ -30,6 +30,7 @@ ul {
     left: 50px;
     top: 150px;
     z-index: -1;
+    border-radius: 25px;
   }
   .topright {
     position: absolute;
