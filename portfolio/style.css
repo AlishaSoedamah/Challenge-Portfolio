@@ -1,9 +1,13 @@
+body{
+  background-color: orchid;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: rgb(253, 0, 126);
   }
   
   li {
@@ -14,7 +18,7 @@ ul {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 30px 30px;
     text-decoration: none;
   }
   
@@ -23,7 +27,7 @@ ul {
     background-color: rgb(143, 201, 49);
   }
   .active {
-    background-color: #eb9635;
+    background-color:  rgb(250, 193, 4);
   }
   img {
     position: absolute;
@@ -43,7 +47,4 @@ ul {
     top: 180px;
     right: 250px;
     font-size: 30px;
-  }
-  body {
-      background-color:rgb(228, 228, 228)
   }
