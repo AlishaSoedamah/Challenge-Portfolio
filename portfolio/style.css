@@ -1,50 +1,44 @@
-body{
-  background-color: orchid;
-}
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: rgb(253, 0, 126);
+ body{
+    background-color: coral;
   }
   
-  li {
-    float: left;
-  }
-  
-  li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 30px 30px;
-    text-decoration: none;
-  }
-  
-  /* Change the link color to #111 (black) on hover */
-  li a:hover {
-    background-color: rgb(143, 201, 49);
-  }
-  .active {
-    background-color:  rgb(250, 193, 4);
-  }
+  ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: rgb(253, 59, 0);
+    }
+    
+    li {
+      float: left;
+    }
+    
+    li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 7px 163px;
+      text-decoration: none;
+    }
+    
+    /* Change the link color to #111 (black) on hover */
+    li a:hover {
+      background-color: rgb(143, 201, 49);
+    }
+    .active {
+      background-color:  rgb(250, 193, 4);
+    }
+    /*IMG of me center*/
   img {
     position: absolute;
-    left: 50px;
-    top: 150px;
-    z-index: -1;
     border-radius: 25px;
+    margin-left: 400px;
+    margin-right: 300px;
   }
-  .topright {
-    position: absolute;
-    top: 140px;
-    right: 400px;
-    font-size: 50px;
-  }
-  .toprighttwo {
-    position: absolute;
-    top: 180px;
-    right: 250px;
-    font-size: 30px;
-  }
+
+/*center head text*/
+.center {
+  text-align: center;
+}
+

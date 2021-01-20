@@ -13,8 +13,8 @@ naamElement.innerHTML = bezoeker.naam;
 
 //BGcolours
 if (bezoeker["leeftijd"]<18) {
-    document.querySelector("body").style.backgroundColor = "darkred";
+    document.querySelector("body").style.backgroundColor = "crimson";
 }
-if (bezoeker["leeftijd"]>18) {
+if (bezoeker["leeftijd"]>=18) {
     document.querySelector("body").style.backgroundColor = "lightgreen";
 }
