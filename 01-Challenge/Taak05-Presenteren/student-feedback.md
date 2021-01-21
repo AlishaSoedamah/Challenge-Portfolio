@@ -5,6 +5,6 @@
 
 ## Feedback.
 
-- ...
-- ...
-- ...
+- foto moet groter
+- about me tekst anders
+- spelfout

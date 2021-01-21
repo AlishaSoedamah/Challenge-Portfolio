@@ -1,12 +1,12 @@
 # Challenge Portfolio: Reflectie
 
 ### Wat ging er goed tijdens deze Challenge?
-- Het eerste deel
+- Het eerste deel was snel af
 - ...
 - ...
 
 ### Wat kon er beter?
-- Het tweede deel
+- Niets
 - ...
 - ...
 
