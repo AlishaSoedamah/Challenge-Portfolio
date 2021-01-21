@@ -18,7 +18,7 @@ li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 20px 100px;
+    padding: 10px 100px;
     text-decoration: none;
   }
     
@@ -35,7 +35,7 @@ li a:hover {
   position: absolute;
   border-radius: 25px;
   margin-left: 100px;
-  margin-top: 100px;
+  margin-top: 50px;
   margin-right: 500px;
   }
 
@@ -51,7 +51,7 @@ li a:hover {
 .imgprojects {
   position: absolute;
   border-radius: 25px;
-  margin-left: 1240px;
+  margin-left: 970px;
   margin-right: 200px;
   margin-top: 100px;
 }
@@ -67,7 +67,7 @@ li a:hover {
 .imgprojectsthree {
   position: absolute;
   border-radius: 25px;
-  margin-left: 700px;
+  margin-left: 560px;
   margin-right: 200px;
   margin-top: 100px;
 }
@@ -80,10 +80,10 @@ li a:hover {
 }
 
 .bigBoiefont{
-    font-size: 35px;
+    font-size: 20px;
 }
 
 .interests {
-  margin-left: 520px;
+  margin-left: 340px;
   margin-right: 100px;
 }
