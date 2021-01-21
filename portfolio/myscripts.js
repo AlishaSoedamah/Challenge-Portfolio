@@ -18,3 +18,16 @@ if (bezoeker["leeftijd"]<18) {
 if (bezoeker["leeftijd"]>=18) {
     document.querySelector("body").style.backgroundColor = "lightgreen";
 }
+
+//text element welkom veranderd van kleur
+if (bezoeker["leeftijd"]<18) {
+    var sheet = document.createElement('style')
+    sheet.innerHTML = "div {border: 0px solid black; background-color: orangered;}";
+    document.body.appendChild(sheet);
+}
+if (bezoeker["leeftijd"]>=18) {
+    var sheet = document.createElement('style')
+    sheet.innerHTML = "div {border: 0px solid black; background-color: limegreen;}";
+    document.body.appendChild(sheet);
+    }
+
