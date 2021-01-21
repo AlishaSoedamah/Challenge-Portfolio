@@ -18,7 +18,7 @@ li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 15px 100px;
+    padding: 20px 100px;
     text-decoration: none;
   }
     
@@ -34,8 +34,8 @@ li a:hover {
 #pfpimg {
   position: absolute;
   border-radius: 25px;
-  margin-left: 200px;
-  margin-top: -150px;
+  margin-left: 100px;
+  margin-top: 100px;
   margin-right: 500px;
   }
 
@@ -51,17 +51,39 @@ li a:hover {
 .imgprojects {
   position: absolute;
   border-radius: 25px;
-  margin-left: 80px;
-  margin-right: 500px;
+  margin-left: 1240px;
+  margin-right: 200px;
+  margin-top: 100px;
+}
+
+.imgprojectstwo {
+  position: absolute;
+  border-radius: 25px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 100px;
+}
+
+.imgprojectsthree {
+  position: absolute;
+  border-radius: 25px;
+  margin-left: 700px;
+  margin-right: 200px;
   margin-top: 100px;
 }
 
 #coolsidetext{
-  margin-left: 900px;
-  margin-right: 300px;
-  margin-top: 100px;
-  text-align: right;
+  margin-left: 1000px;
+  margin-right: 100px;
+  margin-top: 190px;
+  text-align: left;
 }
-.bigBoiefont{
 
+.bigBoiefont{
+    font-size: 35px;
+}
+
+.interests {
+  margin-left: 520px;
+  margin-right: 100px;
 }
