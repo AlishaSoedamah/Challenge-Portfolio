@@ -31,12 +31,10 @@ li a:hover {
 }
 
 /*IMG of me center*/
-#pfpimg {
-  position: absolute;
-  border-radius: 25px;
-  margin-left: 100px;
-  margin-top: 10px;
-  margin-right: 500px;
+.pfpimg {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
   }
 
 .red {
@@ -48,34 +46,13 @@ li a:hover {
   text-align: center;
 }
 
-.imgprojects {
-  position: absolute;
-  border-radius: 25px;
-  margin-left: 970px;
-  margin-right: 200px;
-  margin-top: 100px;
-}
-
-.imgprojectstwo {
-  position: absolute;
-  border-radius: 25px;
-  margin-left: 200px;
-  margin-right: 200px;
-  margin-top: 100px;
-}
-
-.imgprojectsthree {
-  position: absolute;
-  border-radius: 25px;
-  margin-left: 560px;
-  margin-right: 200px;
-  margin-top: 100px;
+.flex{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
 }
 
 #coolsidetext{
-  margin-left: 1000px;
-  margin-right: 100px;
-  margin-top: 190px;
   text-align: left;
 }
 
@@ -84,6 +61,11 @@ li a:hover {
 }
 
 .interests {
-  margin-left: 340px;
-  margin-right: 100px;
+  display: flex;
+  justify-content: space-around;
+}
+
+/*borderradius*/
+.roundedCorners {
+  border-radius: 10px;
 }
