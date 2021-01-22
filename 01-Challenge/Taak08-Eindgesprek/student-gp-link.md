@@ -4,4 +4,4 @@ Student : `Alisha Soedamah`
 
 Klas    : `LCTAOO0A`
 
-Link    : [https://alishasoedamah.github.io/index.html]
+Link    : [https://alishasoedamah.github.io]
