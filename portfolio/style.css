@@ -30,10 +30,11 @@ li a:hover {
   background-color:  rgb(250, 193, 4);
 }
 
-/*IMG of me center*/
+/*IMG center*/
 .pfpimg {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
+  margin: 500px;
   margin-top: 20px;
   }
 
@@ -44,12 +45,6 @@ li a:hover {
 /*center head text*/
 .center {
   text-align: center;
-}
-
-.flex{
-  display: flex;
-  justify-content: space-around;
-  margin-top: 20px;
 }
 
 #coolsidetext{
