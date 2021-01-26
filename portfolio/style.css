@@ -1,7 +1,7 @@
  body{
     background-color: coral;
   }
-  
+  /*menu*/
 ul {
     list-style-type: none;
     margin: 0;
@@ -21,8 +21,7 @@ li a {
     padding: 10px 100px;
     text-decoration: none;
   }
-    
-/* Change the link color to #111 (black) on hover */
+
 li a:hover {
     background-color: rgba(255, 208, 0, 0.315);
   }
@@ -31,26 +30,20 @@ li a:hover {
 }
 
 /*IMG center*/
-.pfpimg {
+img {
   display: flex;
-  justify-content: space-around;
-  margin: 500px;
+  justify-content: center;
   margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 40px;
   }
-
-.red {
-  text-decoration-color: red;
-}
 
 /*center head text*/
 .center {
   text-align: center;
 }
-
-#coolsidetext{
-  text-align: left;
-}
-
+/*text BIG*/
 .bigBoiefont{
     font-size: 20px;
 }
@@ -58,9 +51,4 @@ li a:hover {
 .interests {
   display: flex;
   justify-content: space-around;
-}
-
-/*borderradius*/
-.roundedCorners {
-  border-radius: 10px;
 }
